@@ -1,0 +1,20 @@
+body {
+  background-color: aquamarine;
+}
+
+.navi-links {
+  display: inline;
+  margin-left: 10px;
+}
+
+#navi-bar {
+  background-color: blanchedalmond;
+  height: 50px;
+  padding-top: 5px;
+  width: 100%;
+}
+
+#image-div {
+  width: 300px;
+  height: 300px;
+}
